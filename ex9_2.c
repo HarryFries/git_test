@@ -4,7 +4,7 @@
 //
 //  Created by 이현우 on 5/23/24.
 //
-
+#include "bubbleSort.c"
 #include <stdio.h>
 void bubbleSort(int a[], int size);
 
